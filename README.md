@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lem
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...database
+- 🌱 I’m currently learning ...machine learning,matrix analysis,CSS
 - 💞️ I’m looking to collaborate on ...C++
 - 📫 How to reach me ...
 
