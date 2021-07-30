@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lem
 - 👀 I’m interested in ...math
-- 🌱 I’m currently learning ...machine learning,matrix analysis,CSS,differnce equations
+- 🌱 I’m currently learning ...machine learning,matrix analysis,CSS,Assembly
 - 💞️ I’m looking to collaborate on ...C++,R,Python
 - 📫 How to reach me ...
 
